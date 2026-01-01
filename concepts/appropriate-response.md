@@ -32,6 +32,7 @@ Response:    LOW ──────── MEDIUM ──────── HIGH
 | **Silence/Avoidance**        | Never addressing it, letting it fester |
 | **Triangulation**            | Recruiting others to take sides        |
 | **Eye for an Eye**           | Trying to hurt them back equally       |
+| **Mob Judgment**             | Group condemns without verification    |
 
 ## How Trauma Distorts Response
 
@@ -46,18 +47,20 @@ When you have unprocessed trauma:
 
 ## Before Responding
 
-See: [Response Flowchart](../charts/response-flowchart.md)
+See: [Response Flowchart](../charts/response-flowchart.md) | [Before You Judge](./before-you-judge.md)
 
 1. **Pause. Breathe.**
-2. What is the actual [severity](./severity.md)?
-3. What is the actual [type](./types-of-mistakes.md)?
-4. Is my response proportional?
-5. Am I reacting to NOW or to my past?
+2. **Do I actually know what happened?** (See: [Before You Judge](./before-you-judge.md))
+3. What is the actual [severity](./severity.md)?
+4. What is the actual [type](./types-of-mistakes.md)?
+5. Is my response proportional?
+6. Am I reacting to NOW or to my past?
 
 ---
 
 ## Related
 
+- [Before You Judge](./before-you-judge.md) — Do you actually know what happened?
 - [Severity](./severity.md) — The scale to match
 - [Types of Mistakes](./types-of-mistakes.md) — Intent matters for response
 - [Trauma & Filters](./trauma-and-filters.md) — Why responses get distorted

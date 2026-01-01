@@ -16,6 +16,7 @@ A system for understanding mistakes, responsibility, and repair in somatic/intim
 | [Fawning](./concepts/fawning.md)                           | When "yes" means "no" — two victims        |
 | [Appropriate Response](./concepts/appropriate-response.md) | Matching response to severity              |
 | [Making It Right](./concepts/making-it-right.md)           | Repair over punishment                     |
+| [Before You Judge](./concepts/before-you-judge.md)         | Do you actually know what happened?        |
 
 ---
 
